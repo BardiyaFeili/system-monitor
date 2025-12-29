@@ -1,0 +1,1 @@
+This is a simple system recource monitor tool written in Rust with Python used for graphs.
